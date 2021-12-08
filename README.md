@@ -1,10 +1,6 @@
-## A Summary of What I've Learned
+# _Behold the Almighty Github_ #
 
 The subject matter of repositories, Markdown language, and navigating Github are daunting to say the least. But the fact that these can be difficult to understand at first should not deter you from deep diving into the source of what makes them work. The usefulness of these topics can't be overstated.
-
-
-### _Behold the Almighty Github_ ###
-
 Github if you decide to google it is a code hosting platform for version control and collaboration. It allows you the magical oppostunity to work and collaborate with others on various projects. Repos, Branches, and all the Commits! These were the ingredients chosen to make create the perfect little girls!! Just kidding but these three things are definitely the bee's knees when it comes to version control. A repository is often used to organize a single project with folders containing images, text and code. Beautiful branching bestowes you with the ability to have different versions of a repository at one time. And last but not least commiting. Well we all know that means you're ready to put a ring on it! but these are saved changes that include a description of what you may have altered.
 
 ### _MarkDown_ ###
