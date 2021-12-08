@@ -9,6 +9,6 @@ When it comes to Markdown this is essentially a language very similar to HTML th
 
 ### _Repositories_ ###
 
-Good God what is life???!!! Repositories. Where to start? They suck if you don't know what you're doing. But if you have patience they'll treat you better than your mother ever could. These are basically a directory or storage space on github for all your precious desirables otherwise known as projects. You can store code, images, text, You name it we got it! These puppies will save your skin if you forget to save whatever gruling, tedious, nail biting, high-blood pressure causing project you've been losing sleep over every night. The easiest way to describe it is Reops = Folder.
+Good God what is life???!! Repositories. Where to start? They suck if you don't know what you're doing. But if you have patience they'll treat you better than your mother ever could. These are basically a directory or storage space on github for all your precious desirables otherwise known as projects. You can store code, images, text, You name it we got it! These puppies will save your skin if you forget to save whatever gruling, tedious, nail biting, high-blood pressure causing project you've been losing sleep over every night. The easiest way to describe it is Reops = Folder.
 
 [III. Coder's Computer](https://marco-senpai.github.io/coders-computer.github.io/)
