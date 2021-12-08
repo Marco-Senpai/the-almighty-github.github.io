@@ -1,17 +1,16 @@
-# topics-learned.github.io
+## A Summary of What I've Learned
 
-## Topics Learned ##
+The subject matter of repositories, Markdown language, and navigating Github are daunting to say the least. But the fact that these can be difficult to understand at first should not deter you from deep diving into the source of what makes them work. The usefulness of these topics can't be overstated.
 
-The topics covered in the reading can be very daunting if you don't use a growth mindset. But the value that they bring to your life once you understand them can be immense. The topics include Github, Markdown, and repositories.
 
-### _The Almighty Github_ ###
+### _Behold the Almighty Github_ ###
 
-Github is basically a lovely tool that allows you to collaborate with others and handle version control very easily. It does this through several methods that include repos or repositories, branches, and commits. Repos are at their root folders that can store code, text, and images. Branches are the different versions of projects you've created. And commits are your saves that include a message that explains the alternate changes that have been made.
+Github if you decide to google it is a code hosting platform for version control and collaboration. It allows you the magical oppostunity to work and collaborate with others on various projects. Repos, Branches, and all the Commits! These were the ingredients chosen to make create the perfect little girls!! Just kidding but these three things are definitely the bee's knees when it comes to version control. A repository is often used to organize a single project with folders containing images, text and code. Beautiful branching bestowes you with the ability to have different versions of a repository at one time. And last but not least commiting. Well we all know that means you're ready to put a ring on it! but these are saved changes that include a description of what you may have altered.
 
-### _Markdown_ ###
+### _MarkDown_ ###
 
-Markdown in the simpliest way I can put it is a straightforawrd language that is very similar to HTML that is often used for text on a document. It uses syntax that is also very similar to HTML as well. For instance if you want the header to have a larger font than other characters you use one hashtag whereas if you want smaller fonts you would use multiple hashtags in the same way you would use "h1" or "h4" with HTML.
+When it comes to Markdown this is essentially a language very similar to HTML that is used in README files and is handy for repositories as well as other text on the web. It is fairly simple to use and has various documents to help you customize the language as you see fit. When using this language I didn't find it very challenging at first but I did have trouble with some of the syntax. For example when I first tried to view the page I could see all of the Hashtags in my text but this was caused because of a spacing issue in which my hashtag symbol(#) was to close to my actual text. Another issue I had which was also syntax related was that my image would not appear and for the life of me I couldn't figure it out, But I figured maybe it's caused by the same problem I had with erasing the # from being visible and low and behold when spaced it properly my image came shining through like glorious light at the end of a dark buggy code infested tunnel.
 
-### _The Repo Man_ ###
+### _Repositories_ ###
 
-As I stated before repos are basically folders for what you need to store, specifically being the the projects you are working on. This can inlcude precious tedious code that you have been laboring away on or simply some text that you plan to use for something else. Please take care in controlling these repos appropriately as not to lose important progress made.
+Good God what is life???!!! Repositories. Where to start? They suck if you don't know what you're doing. But if you have patience they'll treat you better than your mother ever could. These are basically a directory or storage space on github for all your precious desirables otherwise known as projects. You can store code, images, text, You name it we got it! These puppies will save your skin if you forget to save whatever gruling, tedious, nail biting, high-blood pressure causing project you've been losing sleep over every night. The easiest way to describe it is Reops = Folder.
